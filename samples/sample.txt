@@ -1,0 +1,3 @@
+2018-09-18T00:54:30Z     apigee-all              {"message":"2018-09-18T00:54:30Z W! Skipping a scheduled flush because there is already a flush ongoing."}
+2018-09-18T00:54:31Z     apigee-all              {"message":"2018-09-18T00:54:31Z E! InfluxDB Output Error: Post http://10.18.113.51:8086/write?db=system: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}
+2018-09-18T00:54:31Z     apigee-all              {"message":"2018-09-18T00:54:31Z E! InfluxDB Output Error: Post http://10.18.113.51:8086/write?db=application: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}

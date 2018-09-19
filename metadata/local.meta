@@ -1,0 +1,23 @@
+[app/ui]
+version = 7.1.2
+modtime = 1536325524.571179000
+
+[app/launcher]
+version = 7.1.2
+modtime = 1536325524.573850000
+
+[]
+access = read : [ * ], write : [ admin, power ]
+export = system
+version = 7.1.2
+modtime = 1536326396.737235000
+
+[indexes/sentinal_windows_test]
+owner = admin
+version = 7.1.2
+modtime = 1536360789.159964000
+
+[props/json_no_timestamp_sentinel]
+owner = admin
+version = 7.1.2
+modtime = 1536610720.901219000
